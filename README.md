@@ -39,4 +39,4 @@
 
 ### 1. Code or Feature Generation
 AI will scaffold React components, Express routes, and database models.  
-**Example Prompt:**
+
